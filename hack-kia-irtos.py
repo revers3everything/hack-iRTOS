@@ -122,6 +122,8 @@ def clean_generated_files():
     # Delete all .apk files in current directory
     apk_files = glob.glob("*.apk")
     for apk in apk_files:
+        if apk == "mykia.apk":
+            continue
         try:
             os.remove(apk)
             print(f"[+] Deleted APK file: {apk}")
