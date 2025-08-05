@@ -207,8 +207,8 @@ def create_malicious_apk():
         if not run_command(sign_cmd):
             return
 
-    if os.path.exists("evil_app_signed.apk"):
-        print("\n✅ APK injection and signing successful! File created: evil_app_signed.apk")
+    if os.path.exists("kia.apk"):
+        print("\n✅ APK injection and signing successful! File created: kia.apk")
     else:
         print("❌ Something went wrong. APK not created.")
 
