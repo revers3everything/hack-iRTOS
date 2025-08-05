@@ -1,0 +1,24 @@
+
+=====================
+[+] SMS messages dump
+=====================
+
+Date: 2025-08-04 21:53:36.205081192 -0500
+OS: Android 14 - Linux 5.10.209-android12-9-00016-g7c6bbcca33e1-ab12029497 (aarch64)
+Remote IP: 192.168.99.60
+Remote Port: 51904
+
+#1
+Type	: Incoming
+Date	: 2025-08-04 12:58:43
+Address	: +334
+Status	: NOT_RECEIVED
+Message	: Estrena tu iPhone 16 a precio de USA con Movistar! Financialo en cuotitas con tu plan. Responde CELU al 334 y te llamamos.
+
+#2
+Type	: Outgoing
+Date	: 2025-08-04 12:36:57
+Address	: +593999847537
+Status	: NOT_RECEIVED
+Message	: Message with confidential information, test for defcon 33 - 2025
+
