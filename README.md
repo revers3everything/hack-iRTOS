@@ -79,7 +79,7 @@ python3 hack-kia-irtos.py
 **Danilo Erazo**  
 Independent Security Researcher  
 DEFCON Speaker | Car Hacking Village Contributor  
-Twitter: [@daniloerazo](https://x.com/revers3vrything)  
+Twitter: [@revers3vrything](https://x.com/revers3vrything)  
 YouTube: [Hardware Hacking & RE](https://www.youtube.com/@revers3everything)
 
 ---
