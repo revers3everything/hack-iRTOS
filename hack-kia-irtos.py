@@ -1,6 +1,6 @@
 import os
 import subprocess
-import shutil, tempfile, globe
+import shutil, tempfile, glob
 
 def find_png_offset(png_path, binary_path):
     with open(png_path, 'rb') as f:
