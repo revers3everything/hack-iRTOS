@@ -2,6 +2,8 @@
 
 ![alt text](tool-image.png)
 
+Demo - Explotation Video: https://www.youtube.com/watch?v=JXGRR8XxKIc
+
 🔓 **hack-kia-irtos** is a powerful post-exploitation framework that targets a newly discovered operating system named **iRTOS**, reverse engineered from Kia IVI firmware dumps. This tool leverages a **vulnerability in the iRTOS boot process** to implant a **malicious PNG image**, resulting in what is arguably the most **sophisticated and dangerous QR phishing attack in all over the world**.
 
 👾 This zero-day technique will be publicly demonstrated at **DEFCON 33**.
